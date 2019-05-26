@@ -1,0 +1,38 @@
+body {
+    background-color: lightgrey;
+}
+
+.main-content {
+    width: 960px;
+    margin: 0 auto;
+    background-color: lightslategray
+}
+
+header {
+    width: 100%;
+    height: 60px;
+    background-color: white;
+}
+
+.navbar {
+    width: 960px;
+    padding:0;
+    margin: 0 auto;
+}
+.name {
+    color: white;
+    background-color: #4aaaa5;
+}
+
+.about-me {
+    color: #4aaaa5;
+}
+
+.main-content {
+    margin-top: 20px;
+    background-color: white;
+}
+
+.self-pic{
+    float: left;
+}
